@@ -1,0 +1,16 @@
+{
+    "name": "Publicidad PWA",
+    "short_name": "AdsPWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f7f7f7",
+    "theme_color": "#000",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
+
